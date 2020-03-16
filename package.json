@@ -1,0 +1,14 @@
+{
+  "name": "exel-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.15.6"
+  }
+}
